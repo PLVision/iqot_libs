@@ -1,6 +1,7 @@
 ### Description
 
-This repository contains software to bring up real or emulated devices.
+This repository contains software to bring up real or emulated devices and connect them to IQoT platform:
+https://iqot.io/
 
 ##### Emulator
 Contains scripts to download two docker images with gateway and endpoint emulators.
